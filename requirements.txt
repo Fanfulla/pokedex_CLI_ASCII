@@ -1,0 +1,2 @@
+ascii-magic==2.7.2
+requests==2.32.5
